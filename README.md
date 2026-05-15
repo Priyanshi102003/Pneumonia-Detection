@@ -11,7 +11,7 @@ The model is trained to classify X-ray images into two categories:
 
 This project demonstrates the practical application of Deep Learning and Computer Vision in healthcare for assisting early pneumonia diagnosis and medical image analysis.
 
----
+
 
 ## Project Objectives
 
@@ -22,7 +22,7 @@ This project demonstrates the practical application of Deep Learning and Compute
 * Evaluate model performance on medical datasets
 * Demonstrate healthcare applications of Deep Learning
 
----
+
 
 ## Features
 
@@ -34,7 +34,7 @@ This project demonstrates the practical application of Deep Learning and Compute
 * Prediction using trained Deep Learning model
 * Medical AI application workflow
 
----
+
 
 ## Dataset
 
@@ -53,7 +53,7 @@ Each dataset includes two classes:
 * NORMAL
 * PNEUMONIA
 
----
+
 
 ## Technologies Used
 
@@ -66,7 +66,7 @@ Each dataset includes two classes:
 * OpenCV
 * VS Code
 
----
+
 
 ## Deep Learning Workflow
 
@@ -105,7 +105,7 @@ Each dataset includes two classes:
   * Normal
   * Pneumonia
 
----
+
 
 ## Project Structure
 
@@ -123,7 +123,7 @@ Pneumonia_Detection_Project/
 └── README.md
 ```
 
----
+
 
 ## Model Information
 
@@ -135,7 +135,7 @@ Pneumonia_Detection_Project/
   * Normal
   * Pneumonia
 
----
+
 
 ## Use Cases
 
@@ -145,7 +145,7 @@ Pneumonia_Detection_Project/
 * Clinical decision support systems
 * Educational Deep Learning projects
 
----
+
 
 ## Future Improvements
 
@@ -156,7 +156,7 @@ Pneumonia_Detection_Project/
 * Add real-time X-ray image prediction
 * Integrate explainable AI visualization techniques
 
----
+
 
 ## Learning Outcomes
 
@@ -170,7 +170,7 @@ This project demonstrates practical understanding of:
 * TensorFlow and Keras Model Development
 * AI Applications in Healthcare
 
----
+
 
 ## Author
 
